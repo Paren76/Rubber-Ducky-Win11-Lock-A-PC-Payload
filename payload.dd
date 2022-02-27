@@ -3,6 +3,8 @@ REM This script will change the lockscreen password or your Windows 11 PC
 REM ***************
 REM This is for educational purpose only. Do not use this to harm anyone.
 REM *************** 
+REM USE THIS SCRIPT IF YOU KNOW THE CURRENT PASSWORD
+REM ***************
 REM
 DELAY 2500
 REM close explorer
