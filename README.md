@@ -10,7 +10,7 @@ First it's navigating to the windows settings. Right after it found the account 
 <p>3. Restrict access to elevated command prompt</p>
 
 <h1>What do I need to perform this troll?</h1>
-You need the old password. If there is none you need to change the script a bit 'cause in that case one pop window is missing.
+You need the old password. Decide which script you want to use. (Do you know the current password? Is there even one?)
 <p>If you want to restart the PC afterwards just add:</p>  
 
 <pre>
