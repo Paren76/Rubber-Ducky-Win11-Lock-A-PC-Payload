@@ -11,7 +11,9 @@ First it's navigating to the windows settings. Right after it found the account 
 
 <h1>What do I need to perform this troll?</h1>
 You need the old password. Decide which script you want to use. (Do you know the current password? Is there even one?)
-<p>If you want to restart the PC afterwards just add:</p>  
+
+<h1>Possible changes</h1>
+If you want to restart the PC afterwards just add:
 
 <pre>
   <code>
